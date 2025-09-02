@@ -22,9 +22,3 @@ J’ai réalisé une segmentation des clients d’Olist, une entreprise de e-com
 
 - SQL (MySQL / DBeaver)
 - Python (pandas, NumPy, scikit-learn, Seaborn, Matplotlib)
-
-## Installation
-
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/tonPseudo/olist-customer-segmentation.git
